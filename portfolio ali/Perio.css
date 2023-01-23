@@ -1,0 +1,22 @@
+
+body
+{
+    background-color: #000016;
+}
+
+
+.carousel-indicators li{
+    width:60px;
+    height:60px;
+    border-radius: 50%;
+    text-indent: 0;
+}
+.carousel-item img
+{
+    border-radius: 10px;
+    max-width: 100%;
+}
+.carousel-indicators img
+{
+    height: 60px;
+}
